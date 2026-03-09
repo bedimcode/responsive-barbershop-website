@@ -1,0 +1,172 @@
+========== HEADER & NAV ==========
+✅.nav__logo
+BARBERSHOP
+
+✅.nav__link
+Home - About Us - Works - Services - Experts - Contact us
+
+
+========== HOME SECTION ==========
+✅.home__title
+HAIRCUT AND BEARD <br> SPECIALISTS
+
+✅.home__description
+Barbershop specializing in haircuts, fades, classic shaves, and beard design for men. Our team of professional barbers guarantees impeccable results, tailored to your style, personality, and modern tastes.
+
+✅.button
+See Our Haircut Work
+
+
+========== ABOUT SECTION ==========
+✅.section__title
+ABOUT OUR <br> LOCAL BARBERSHOP
+
+✅.about__description
+At our barbershop, we combine the tradition of classic haircuts with modern trends to offer you a unique experience. Every service is designed to highlight your personality.
+
+✅.about__counter ✅.about__subtitle
+99 %
+CUSTOMER <br> SATISFACTION
+
+7 +
+YEAR OF <br> EXPERIENCE
+
+
+========== WORKS SECTION ==========
+✅.section__title
+DISCOVER <br> OUR WORKS
+
+✅.work__description
+Our work includes both vintage and modern styles. We stay up-to-date with the latest trends to guarantee the best possible service.
+
+
+========== SERVICES SECTION ==========
+✅.section__title
+OUR SERVICES
+
+✅.service__name ✅.service__price
+ADULT HAIRCUT
+$40
+
+KIDS HAIRCUT
+$20
+
+NECK SHAVE
+$35
+
+BEARD TRIM
+$15
+
+HAIRCUT + SHAVE
+$70
+
+✅.service__testimonial-description ✅.service__testimonial-name
+Excellent barbershop; the atmosphere feels authentic from the moment you walk in. The service is professional, and the results are top-notch. Definitely a place you'll always want to return to.
+John D.
+
+Excellent atmosphere and top-notch service at all times. The barbers really do give you the haircut you want. I always leave feeling confident and refreshed. Highly recommended!
+Will C.
+
+True professionals who have mastered their craft. Flawless fades, impeccable beard trims, and excellent customer service. Booking is easy, and they're always punctual.
+Michel D.
+
+========== EXPERTS SECTION ==========
+✅.section__title
+MEET OUR BARBERS
+
+✅.expert__description
+Every barber on our team is committed to providing an exceptional grooming experience, ensuring you leave our shop looking and feeling your best.
+
+✅.expert__name ✅.expert__profession
+Jonh Deep
+Master Barber
+
+Max Pell
+Senior Stylist
+
+Doe Will
+Master Barber
+
+Emyl Larz
+Barber
+
+✅.expert__link
+https://www.linkedin.com/
+https://www.instagram.com/bedimcode
+https://www.facebook.com/bedimcode
+
+
+========== CONTACT SECTION ==========
+✅.section__title
+CONTACT US <br> FOR A HAIRCUT
+
+✅.contact__description
+Contact us for a barber service, find us at our nearest location, or write to us through our social media links and book now.
+
+✅.button
+Book Via WhatsApp
+  https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+
+✅.contact__map
+<!-- Insert your location into Google Maps (https://www.google.com/maps) -->
+<!-- Click Share -> Embed Map -> Copy HTML -->
+
+✅.contact__title ✅.contact__address
+LOCATION
+128th Street Avenue, Miraflores, <br> Lima - Peru
+
+OPERATIONAL
+
+itemscope itemtype="https://schema.org/LocalBusiness"
+
+Monday - Saturday: 9am - 8pm
+  itemprop="openingHours" content="Mo-Sa 09:00-20:00"
+
+Sunday: 9am - 6pm
+  itemprop="openingHours" content="Su 09:00-18:00"
+
+CALL US AND BOOK
++1234-9876-00
+  tel:+1234-9876-00
+
++00987654321
+  tel:+00987654321
+
+
+========== FOOTER ==========
+✅.footer__logo
+BARBERSHOP
+
+✅.footer__description
+Where your haircut style <br> becomes tradition.
+
+✅.footer__email
+barbershop@email.com
+  mailto:barbershop@email.com
+
+✅.footer__title ✅.footer__link
+Menu
+  Home
+  About us
+  Works
+  Services
+
+Write to us
+  WhatsApp
+    https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+  Messenger
+    https://m.me/bedimcode
+  Telegram
+    https://web.telegram.org
+  Gmail
+    mailto:barbershop@email.com
+
+Social
+https://www.facebook.com/bedimcode
+https://www.instagram.com/bedimcode/
+https://x.com/bedimcode/
+https://www.youtube.com/@Bedimcode/
+
+
+✅.footer__copy
+&#169; All Rights Reserved By Bedimcode
